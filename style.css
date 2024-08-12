@@ -1,0 +1,50 @@
+body{
+    background-image: url('./oladele.jpeg');
+    background-size: cover;   
+}
+.profile{
+    align-items: center;
+    justify-content: center;
+    background-image: url('./bluebackground.jpeg');
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 25%;
+    margin-bottom: 25%;
+    background-size: cover;
+    border: solid white;
+    border-radius: 5%;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 10px 10px 10px 10px;
+
+}
+
+#victor{
+    border: solid white;
+    border-radius: 50%;
+    height: 50%;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    justify-items: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.grid{
+    display: flex;
+    justify-content: space-between
+}
+.class2{
+    margin-right: 5%;
+}
+h2{
+    color: black;
+    justify-content: space-between;
+}
+.class1{
+    margin-left: 5%;
+}
